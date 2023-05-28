@@ -1,2 +1,2 @@
-"# a basic slither.io demo" 
-"# slither.io" 
+# a basic slither.io demo
+# slither.io 
